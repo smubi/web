@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>DivisionofDigitalMarketing</title>
+    <link href="https:///smubi.github.io/web/feed.xml" rel="self" />
+    <link href="https:///smubi.github.io/web" />
+    <updated>2022-08-04T21:04:59-06:00</updated>
+    <author>
+        <name>DDM</name>
+    </author>
+    <id>https:///smubi.github.io/web</id>
+
+    <entry>
+        <title>test</title>
+        <author>
+            <name>DDM</name>
+        </author>
+        <link href="https:///smubi.github.io/web/test.html"/>
+        <id>https:///smubi.github.io/web/test.html</id>
+
+        <updated>2022-08-04T21:04:59-06:00</updated>
+            <summary>
+                <![CDATA[
+                    testing
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>testing</p>
+            ]]>
+        </content>
+    </entry>
+</feed>

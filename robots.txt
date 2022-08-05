@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https:///smubi.github.io/web/sitemap.xml
